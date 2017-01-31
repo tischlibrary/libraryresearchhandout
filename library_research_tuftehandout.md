@@ -3,7 +3,7 @@
 title: Conducting Effective Library Research
 subtitle: "Tisch Library, Spring 2017"
 author: "Josh Quan"
-date: "`r Sys.Date()`"
+date: "2017-01-31"
 output: tufte::tufte_handout
 ---
 
@@ -26,16 +26,10 @@ joshua.quan@tufts.edu
 
 }
 
-```{r setup, include=FALSE}
-library(tufte)
-library(ggplot2)
-# invalidate cache when the tufte version changes
-knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
-options(htmltools.dir.version = FALSE)
-```
+
 #What is a Literature Review?
 
-`r newthought ('A literature review')` is a survey of everything that has been written about a
+<span style="font-variant:small-caps;">A literature review</span> is a survey of everything that has been written about a
 particular topic, theory, or research question. It may provide the background for
 larger work, or it may stand on its own. _An
 effective literature review **analyzes** and **synthesizes** information about key themes or
@@ -44,8 +38,11 @@ issues_. The library website ^[http://tischlibrary.tufts.edu] is a good place to
 
 #Evaluating sources# 
 
-For each book or article consider^[Use this as a starting point. When in doubt, don't be afraid to ask your professor, librarian, and each other about the veracity of sources.]
-
+For each book or article consider^[Use this as a starting point. When in doubt, don't be afraid to ask your professor, librarian, and each other about the veracity of sources. 
+Some tools for "fact-checking" mostly political assertions. 
+http://www.factcheck.org/                
+http://snopes.com/  
+http://www.PolitiFact.com] 
 
 >**Rationale** Why did the author or publisher make this information available? Is there obvious and/or extreme bias or prejudice? 
 
